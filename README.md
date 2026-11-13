@@ -50,10 +50,10 @@ motto:     一歩ずつ — one step at a time
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shakhzodmir&theme=tokyonight" width="100%" alt="profile details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shakhzodmir&theme=tokyonight&v=2" width="100%" alt="profile details" />
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shakhzodmir&theme=tokyonight" alt="repos per language" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shakhzodmir&theme=tokyonight" alt="most commit language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shakhzodmir&theme=tokyonight&v=2" alt="repos per language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shakhzodmir&theme=tokyonight&v=2" alt="most commit language" />
 
 <img src="https://streak-stats.demolab.com?user=Shakhzodmir&theme=tokyonight&hide_border=true" alt="streak" />
 
