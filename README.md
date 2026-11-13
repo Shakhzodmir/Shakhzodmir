@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1a1b27,45:5B4FE9,100:f7768e&text=Shakhzod%20Miraliev&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=%E4%B8%80%E6%AD%A9%E3%81%9A%E3%81%A4%20%C2%B7%20one%20step%20at%20a%20time&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Shakhzod Miraliev" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1a1b27,45:5B4FE9,100:f7768e&text=Shakhzod%20Miraliev&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=UI%2FUX%20Designer%20%C3%97%20Developer%20%C2%B7%20%E4%B8%80%E6%AD%A9%E3%81%9A%E3%81%A4&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Shakhzod Miraliev" />
 
 <a href="https://github.com/Shakhzodmir">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=BB9AF7&center=true&vCenter=true&width=720&lines=Founder+of+Odim+%E2%80%94+rehab+guided+by+a+phone+camera;Computer+vision+that+counts+every+rep;React+%C2%B7+TypeScript+%C2%B7+React+Native+%C2%B7+Supabase;%E3%80%8COdim%E3%80%8D+means+%E3%80%8Cstep%E3%80%8D+in+Uzbek" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=BB9AF7&center=true&vCenter=true&width=760&lines=UI%2FUX+Designer+who+ships+his+own+code;Assistant+Manager+%C2%B7+Dev+Team+%40+AI+G-Payments;Developer+of+Odim+%E2%80%94+rehabilitation+app;Creator+of+Korean+with+Madie;Design+%E2%86%92+Code+%E2%86%92+Store%2C+one+step+at+a+time" alt="typing" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Shakhzodmir&style=for-the-badge&color=5B4FE9&label=PROFILE+VIEWS" alt="views" />
@@ -17,33 +17,65 @@
 ## ⚔️ Player card
 
 ```yaml
-name:      Shakhzod Miraliev
-class:     Founder / Full-stack builder
-guild:     Odim
-main_quest: help people recover after injury with nothing but a phone camera
-party:     doctors, rehab specialists, engineers
-languages: [Uzbek, Russian, English, Korean]
-motto:     一歩ずつ — one step at a time
+name:       Shakhzod Miraliev (이로운)
+class:      UI/UX Designer × Developer
+guild:      AI G-Payments · 개발팀 · 대리 (Assistant Manager)
+base:       South Korea
+origin:     Uzbekistan
+education:  Inha University Graduate School — Convergence Design
+languages:  Uzbek (native) · Russian (native) · English (business) · Korean (TOPIK 4)
+motto:      一歩ずつ — one step at a time
 ```
 
-## 🌸 Main quest — Odim
+## 🏢 Day job — AI G-Payments
 
-> Rehabilitation app where the phone camera watches the exercise,
-> counts repetitions and tells the patient what to fix. No sensors, no wearables.
+**대리 · 개발팀** at [AI G-Payments](https://www.ai-gpayments.com/main/) — the company behind **지페**, a QR ordering and payment platform for restaurants and stores: guests scan a table QR, order and pay from the phone; owners run orders, menu, sales and a PC POS from one place.
 
-- 📷 Pose tracking in the browser and on Android (MediaPipe)
+## 🌸 Quests
+
+### Odim — rehabilitation app
+Developer. An app that guides patients through recovery exercises and keeps the doctor, the rehab specialist and the patient in one flow.
+
+- 🎨 Design system and every screen, from Figma to production
 - 🩺 Separate workspaces for orthopedists, rehab specialists and patients
 - 🌏 Three languages, four scripts (Uzbek Latin and Cyrillic, Russian, English)
-- 🔐 Row-level security on every table
+- 📱 Web + Android
 
-## 🛠️ Skill tree
+### Korean with Madie — learn Korean from zero
+Creator. [koreanmadie.study](https://koreanmadie.study/) · [Google Play](https://play.google.com/store/apps/details?id=study.koreanmadie.app)
+
+- 📚 8 modules, 99 lessons — from Hangul to TOPIK
+- 🤖 AI tutor chat, dictionary and translator
+- 🎮 20+ practice games: vocabulary, listening, dictation, handwriting, speaking
+- 🔥 XP, levels, streaks and achievements
+
+## 🎨 Design
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,react,tailwind,vite,nodejs,supabase,postgres,cloudflare&theme=dark" alt="web stack" />
+<img src="https://skillicons.dev/icons?i=figma,ai,ps,ae,blender&theme=dark" alt="design tools" />
 
-<img src="https://skillicons.dev/icons?i=androidstudio,firebase,py,php,mysql,cpp,figma,git&theme=dark" alt="more stack" />
+</div>
 
+UI/UX for web and mobile · brand identity and logo · motion graphics · [Behance portfolio](https://www.behance.net/gallery/246919799/Portfolio)
+
+## 🛠️ Code
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind&theme=dark" alt="web stack" />
+
+<img src="https://skillicons.dev/icons?i=supabase,firebase,cloudflare,androidstudio,py,cpp,git,vscode&theme=dark" alt="more stack" />
+
+</div>
+
+## 🐍 Designer
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shakhzodmir/Shakhzodmir/main/assets/designer-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Shakhzodmir/Shakhzodmir/main/assets/designer-snake.svg" width="100%" alt="DESIGNER written in contribution squares, eaten by a snake" />
+</picture>
 </div>
 
 ## 📊 Stats
@@ -59,19 +91,12 @@ motto:     一歩ずつ — one step at a time
 
 </div>
 
-## 🐍 Designer
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shakhzodmir/Shakhzodmir/main/assets/designer-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Shakhzodmir/Shakhzodmir/main/assets/designer-snake.svg" width="100%" alt="DESIGNER written in contribution squares, eaten by a snake" />
-</picture>
-</div>
-
-## 📫 Contact
+## 📫 Links
 
 <div align="center">
 
+<a href="https://www.behance.net/gallery/246919799/Portfolio"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+<a href="https://koreanmadie.study/"><img src="https://img.shields.io/badge/Korean_with_Madie-f7768e?style=for-the-badge&logoColor=white" alt="Korean with Madie" /></a>
 <a href="https://posetrack.pages.dev"><img src="https://img.shields.io/badge/Odim-5B4FE9?style=for-the-badge&logoColor=white" alt="Odim" /></a>
 
 </div>
