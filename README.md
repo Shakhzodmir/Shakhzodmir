@@ -59,12 +59,12 @@ motto:     一歩ずつ — one step at a time
 
 </div>
 
-## 🐍 Contribution snake
+## 🐍 Designer
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shakhzodmir/Shakhzodmir/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Shakhzodmir/Shakhzodmir/output/github-contribution-grid-snake.svg" alt="snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shakhzodmir/Shakhzodmir/main/assets/designer-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Shakhzodmir/Shakhzodmir/main/assets/designer-snake.svg" width="100%" alt="DESIGNER written in contribution squares, eaten by a snake" />
 </picture>
 </div>
 
