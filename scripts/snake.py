@@ -28,9 +28,9 @@ for _ in range(6):
     cur=(min(cur[0]+1,COLS-1),cur[1]); path.append(cur)
 N=len(path); STEP=0.075; PAUSE=4; D=N*STEP+PAUSE; LEN=5
 def build(dark):
-    empty='#101728' if dark else '#e5eef5'
-    greens=['#1b5562','#247a83','#40adb5','#66e3ed'] if dark else ['#32909c','#267b89','#206675','#195161']
-    snake=['#ff879d','#e776a2','#c084c9','#a897eb','#b8a2ff']
+    empty='#161b22' if dark else '#ebedf0'
+    greens=['#1f8a3b','#26a641','#2fc24e','#39d353'] if dark else ['#40c463','#30a14e','#2a8f45','#216e39']
+    snake=['#c084fc','#a855f7','#9333ea','#7e22ce','#6b21a8']
     W=COLS*P+G+20; H=ROWS*P+G+20
     o=[f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}">']
     idx={}

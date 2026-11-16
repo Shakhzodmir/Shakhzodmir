@@ -10,6 +10,14 @@
 
 <br /><br />
 
+<img src="./assets/hero.svg" width="100%" alt="Shakhzod Miraliev — animated retro sunset banner" />
+
+<a href="https://github.com/Shakhzodmir">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=BB9AF7&center=true&vCenter=true&width=760&lines=UI%2FUX+Designer+who+ships+his+own+code;Assistant+Manager+%C2%B7+Dev+Team+%40+AI+G-Payments;Developer+of+Odim+%E2%80%94+rehabilitation+app;Creator+of+Korean+with+Madie;Making+GLOW+%E2%80%94+a+musical+match-3+game;Design+%E2%86%92+Code+%E2%86%92+Store%2C+one+step+at+a+time" alt="typing" />
+</a>
+
+<br />
+
 <img src="./assets/signal.svg" width="100%" alt="My process: think, design, build, ship" />
 
 </div>
@@ -66,18 +74,42 @@ Bus and metro tracking, traffic, weather, news and culture in one interface. Sea
 
 **What I make:** web and mobile interfaces · design systems · brand identities · motion graphics · products that work beyond the mockup.
 
+### 🎨 Design
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,ai,ps,ae,blender&theme=dark" alt="design tools" />
+
+</div>
+
+UI/UX for web and mobile · brand identity and logo · motion graphics · [Behance portfolio](https://www.behance.net/gallery/246919799/Portfolio)
+
+### 🛠️ Code
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind&theme=dark" alt="web stack" />
+
+<img src="https://skillicons.dev/icons?i=supabase,firebase,cloudflare,androidstudio,py,cpp,git,vscode&theme=dark" alt="more stack" />
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 🐍 Designer
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/designer-snake-dark.svg" />
+  <img src="./assets/designer-snake.svg" width="100%" alt="An animated purple snake eating the green letters DESIGNER, drawn in contribution-style squares." />
+</picture>
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 ## 04 / Activity
 
 <img src="./assets/dashboard.svg" width="100%" alt="GitHub public activity: contribution history, current and longest streaks, public repositories and language distribution. Refreshed daily." />
-
-<details>
-<summary><b>Side quest: let the designer snake loose</b></summary>
-<br />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/designer-snake-dark.svg" />
-  <img src="./assets/designer-snake.svg" width="100%" alt="An animated snake eating the letters DESIGNER, drawn in contribution-style squares. Decorative animation; not an activity graph." />
-</picture>
-</details>
 
 <br />
 
