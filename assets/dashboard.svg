@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="514" viewBox="0 0 1200 514" role="img" aria-label="Public GitHub activity for Shakhzodmir, refreshed 2026-11-22. 739 contributions, current streak 0 days, longest streak 8 days, 10 non-fork public repositories.">
-<title>Public GitHub activity for Shakhzodmir, refreshed 2026-11-22. 739 contributions, current streak 0 days, longest streak 8 days, 10 non-fork public repositories.</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="514" viewBox="0 0 1200 514" role="img" aria-label="Public GitHub activity for Shakhzodmir, refreshed 2026-11-23. 753 contributions, current streak 1 day, longest streak 8 days, 10 non-fork public repositories.">
+<title>Public GitHub activity for Shakhzodmir, refreshed 2026-11-23. 753 contributions, current streak 1 day, longest streak 8 days, 10 non-fork public repositories.</title>
 <defs><linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#B8A2FF" stop-opacity=".24"/><stop offset="1" stop-color="#B8A2FF" stop-opacity="0"/></linearGradient>
 <linearGradient id="plot"><stop stop-color="#B8A2FF"/><stop offset="1" stop-color="#66E3ED"/></linearGradient></defs>
 <style>@keyframes beacon{50%{opacity:.35}}.beacon{animation:beacon 4s ease-in-out infinite}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
 <rect x="0.5" y="0.5" width="284" height="124" rx="16" fill="#101728" stroke="#253149"/>
 <text x="24" y="34" font-family="'Cascadia Code','JetBrains Mono','DejaVu Sans Mono',monospace" font-size="14" font-weight="500" fill="#9CAAC3" >12 MONTH CONTRIBUTIONS</text>
-<text x="24" y="91" font-family="'Segoe UI','Noto Sans',Arial,sans-serif" font-size="44" font-weight="700" fill="#B8A2FF" >739</text>
+<text x="24" y="91" font-family="'Segoe UI','Noto Sans',Arial,sans-serif" font-size="44" font-weight="700" fill="#B8A2FF" >753</text>
 <path d="M24 107 H260" stroke="#B8A2FF" stroke-opacity=".45" stroke-width="2"/>
 <rect x="305.5" y="0.5" width="284" height="124" rx="16" fill="#101728" stroke="#253149"/>
 <text x="329" y="34" font-family="'Cascadia Code','JetBrains Mono','DejaVu Sans Mono',monospace" font-size="14" font-weight="500" fill="#9CAAC3" >CURRENT STREAK</text>
-<text x="329" y="91" font-family="'Segoe UI','Noto Sans',Arial,sans-serif" font-size="44" font-weight="700" fill="#FF879D" >0 days</text>
+<text x="329" y="91" font-family="'Segoe UI','Noto Sans',Arial,sans-serif" font-size="44" font-weight="700" fill="#FF879D" >1 day</text>
 <path d="M329 107 H565" stroke="#FF879D" stroke-opacity=".45" stroke-width="2"/>
 <rect x="610.5" y="0.5" width="284" height="124" rx="16" fill="#101728" stroke="#253149"/>
 <text x="634" y="34" font-family="'Cascadia Code','JetBrains Mono','DejaVu Sans Mono',monospace" font-size="14" font-weight="500" fill="#9CAAC3" >LONGEST STREAK</text>
@@ -32,39 +32,39 @@
 <text x="752" y="292.3333333333333" font-family="'Segoe UI','Noto Sans',Arial,sans-serif" font-size="12" font-weight="400" fill="#9CAAC3" text-anchor="end">200</text>
 <path d="M34 225.0 H730" stroke="#253149" stroke-opacity=".7"/>
 <text x="752" y="229.0" font-family="'Segoe UI','Noto Sans',Arial,sans-serif" font-size="12" font-weight="400" fill="#9CAAC3" text-anchor="end">300</text>
-<path d="M34.0 415.0 L47.4 415.0 L60.8 415.0 L74.2 415.0 L87.5 415.0 L100.9 415.0 L114.3 415.0 L127.7 415.0 L141.1 415.0 L154.5 415.0 L167.8 415.0 L181.2 415.0 L194.6 415.0 L208.0 415.0 L221.4 415.0 L234.8 415.0 L248.2 415.0 L261.5 415.0 L274.9 415.0 L288.3 415.0 L301.7 415.0 L315.1 415.0 L328.5 415.0 L341.8 415.0 L355.2 412.5 L368.6 415.0 L382.0 409.3 L395.4 415.0 L408.8 415.0 L422.2 415.0 L435.5 408.0 L448.9 396.0 L462.3 389.7 L475.7 401.1 L489.1 407.4 L502.5 415.0 L515.8 402.3 L529.2 415.0 L542.6 415.0 L556.0 415.0 L569.4 406.8 L582.8 413.1 L596.2 410.6 L609.5 411.2 L622.9 413.7 L636.3 411.8 L649.7 415.0 L663.1 412.5 L676.5 366.2 L689.8 390.9 L703.2 390.9 L716.6 352.9 L730.0 225.0 L730 415 L34 415Z" fill="url(#area)"/>
-<polyline points="34.0,415.0 47.4,415.0 60.8,415.0 74.2,415.0 87.5,415.0 100.9,415.0 114.3,415.0 127.7,415.0 141.1,415.0 154.5,415.0 167.8,415.0 181.2,415.0 194.6,415.0 208.0,415.0 221.4,415.0 234.8,415.0 248.2,415.0 261.5,415.0 274.9,415.0 288.3,415.0 301.7,415.0 315.1,415.0 328.5,415.0 341.8,415.0 355.2,412.5 368.6,415.0 382.0,409.3 395.4,415.0 408.8,415.0 422.2,415.0 435.5,408.0 448.9,396.0 462.3,389.7 475.7,401.1 489.1,407.4 502.5,415.0 515.8,402.3 529.2,415.0 542.6,415.0 556.0,415.0 569.4,406.8 582.8,413.1 596.2,410.6 609.5,411.2 622.9,413.7 636.3,411.8 649.7,415.0 663.1,412.5 676.5,366.2 689.8,390.9 703.2,390.9 716.6,352.9 730.0,225.0" fill="none" stroke="url(#plot)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="730.0" cy="225.0" r="5" fill="#66E3ED" class="beacon"/>
+<path d="M34.0 415.0 L47.1 415.0 L60.3 415.0 L73.4 415.0 L86.5 415.0 L99.7 415.0 L112.8 415.0 L125.9 415.0 L139.1 415.0 L152.2 415.0 L165.3 415.0 L178.5 415.0 L191.6 415.0 L204.7 415.0 L217.8 415.0 L231.0 415.0 L244.1 415.0 L257.2 415.0 L270.4 415.0 L283.5 415.0 L296.6 415.0 L309.8 415.0 L322.9 415.0 L336.0 415.0 L349.2 412.5 L362.3 415.0 L375.4 409.3 L388.6 415.0 L401.7 415.0 L414.8 415.0 L428.0 408.0 L441.1 396.0 L454.2 389.7 L467.4 401.1 L480.5 407.4 L493.6 415.0 L506.8 402.3 L519.9 415.0 L533.0 415.0 L546.2 415.0 L559.3 406.8 L572.4 413.1 L585.5 410.6 L598.7 411.2 L611.8 413.7 L624.9 411.8 L638.1 415.0 L651.2 412.5 L664.3 366.2 L677.5 390.9 L690.6 390.9 L703.7 352.9 L716.9 225.0 L730.0 406.1 L730 415 L34 415Z" fill="url(#area)"/>
+<polyline points="34.0,415.0 47.1,415.0 60.3,415.0 73.4,415.0 86.5,415.0 99.7,415.0 112.8,415.0 125.9,415.0 139.1,415.0 152.2,415.0 165.3,415.0 178.5,415.0 191.6,415.0 204.7,415.0 217.8,415.0 231.0,415.0 244.1,415.0 257.2,415.0 270.4,415.0 283.5,415.0 296.6,415.0 309.8,415.0 322.9,415.0 336.0,415.0 349.2,412.5 362.3,415.0 375.4,409.3 388.6,415.0 401.7,415.0 414.8,415.0 428.0,408.0 441.1,396.0 454.2,389.7 467.4,401.1 480.5,407.4 493.6,415.0 506.8,402.3 519.9,415.0 533.0,415.0 546.2,415.0 559.3,406.8 572.4,413.1 585.5,410.6 598.7,411.2 611.8,413.7 624.9,411.8 638.1,415.0 651.2,412.5 664.3,366.2 677.5,390.9 690.6,390.9 703.7,352.9 716.9,225.0 730.0,406.1" fill="none" stroke="url(#plot)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="730.0" cy="406.1" r="5" fill="#66E3ED" class="beacon"/>
 <text x="34.0" y="449" font-family="'Segoe UI','Noto Sans',Arial,sans-serif" font-size="13" font-weight="400" fill="#9CAAC3" text-anchor="middle">Nov 25</text>
-<text x="261.53846153846155" y="449" font-family="'Segoe UI','Noto Sans',Arial,sans-serif" font-size="13" font-weight="400" fill="#9CAAC3" text-anchor="middle">Mar 26</text>
-<text x="502.46153846153845" y="449" font-family="'Segoe UI','Noto Sans',Arial,sans-serif" font-size="13" font-weight="400" fill="#9CAAC3" text-anchor="middle">Jul 26</text>
+<text x="270.37735849056605" y="449" font-family="'Segoe UI','Noto Sans',Arial,sans-serif" font-size="13" font-weight="400" fill="#9CAAC3" text-anchor="middle">Mar 26</text>
+<text x="506.75471698113205" y="449" font-family="'Segoe UI','Noto Sans',Arial,sans-serif" font-size="13" font-weight="400" fill="#9CAAC3" text-anchor="middle">Jul 26</text>
 <text x="730.0" y="449" font-family="'Segoe UI','Noto Sans',Arial,sans-serif" font-size="13" font-weight="400" fill="#9CAAC3" text-anchor="middle">Nov 26</text>
 <circle cx="830" cy="224" r="4" fill="#B8A2FF"/>
 <text x="845" y="229" font-family="'Segoe UI','Noto Sans',Arial,sans-serif" font-size="18" font-weight="400" fill="#F1F4FF" >Lua</text>
 <text x="1170" y="229" font-family="'Cascadia Code','JetBrains Mono','DejaVu Sans Mono',monospace" font-size="16" font-weight="500" fill="#9CAAC3" text-anchor="end">39.4%</text>
 <rect x="845" y="238" width="325" height="4" rx="2" fill="#253149" stroke="#253149"/>
-<rect x="845" y="238" width="128.0765487702844" height="4" rx="2" fill="#B8A2FF" stroke="#B8A2FF"/>
+<rect x="845" y="238" width="128.0976463254679" height="4" rx="2" fill="#B8A2FF" stroke="#B8A2FF"/>
 <circle cx="830" cy="265" r="4" fill="#66E3ED"/>
 <text x="845" y="270" font-family="'Segoe UI','Noto Sans',Arial,sans-serif" font-size="18" font-weight="400" fill="#F1F4FF" >TypeScript</text>
-<text x="1170" y="270" font-family="'Cascadia Code','JetBrains Mono','DejaVu Sans Mono',monospace" font-size="16" font-weight="500" fill="#9CAAC3" text-anchor="end">17.8%</text>
+<text x="1170" y="270" font-family="'Cascadia Code','JetBrains Mono','DejaVu Sans Mono',monospace" font-size="16" font-weight="500" fill="#9CAAC3" text-anchor="end">17.7%</text>
 <rect x="845" y="279" width="325" height="4" rx="2" fill="#253149" stroke="#253149"/>
-<rect x="845" y="279" width="57.94939341875555" height="4" rx="2" fill="#66E3ED" stroke="#66E3ED"/>
+<rect x="845" y="279" width="57.47109421479803" height="4" rx="2" fill="#66E3ED" stroke="#66E3ED"/>
 <circle cx="830" cy="306" r="4" fill="#FF879D"/>
 <text x="845" y="311" font-family="'Segoe UI','Noto Sans',Arial,sans-serif" font-size="18" font-weight="400" fill="#F1F4FF" >JavaScript</text>
-<text x="1170" y="311" font-family="'Cascadia Code','JetBrains Mono','DejaVu Sans Mono',monospace" font-size="16" font-weight="500" fill="#9CAAC3" text-anchor="end">14.2%</text>
+<text x="1170" y="311" font-family="'Cascadia Code','JetBrains Mono','DejaVu Sans Mono',monospace" font-size="16" font-weight="500" fill="#9CAAC3" text-anchor="end">14.3%</text>
 <rect x="845" y="320" width="325" height="4" rx="2" fill="#253149" stroke="#253149"/>
-<rect x="845" y="320" width="45.99326530663442" height="4" rx="2" fill="#FF879D" stroke="#FF879D"/>
+<rect x="845" y="320" width="46.6134763996514" height="4" rx="2" fill="#FF879D" stroke="#FF879D"/>
 <circle cx="830" cy="347" r="4" fill="#F7D38B"/>
 <text x="845" y="352" font-family="'Segoe UI','Noto Sans',Arial,sans-serif" font-size="18" font-weight="400" fill="#F1F4FF" >Python</text>
-<text x="1170" y="352" font-family="'Cascadia Code','JetBrains Mono','DejaVu Sans Mono',monospace" font-size="16" font-weight="500" fill="#9CAAC3" text-anchor="end">11.2%</text>
+<text x="1170" y="352" font-family="'Cascadia Code','JetBrains Mono','DejaVu Sans Mono',monospace" font-size="16" font-weight="500" fill="#9CAAC3" text-anchor="end">11.1%</text>
 <rect x="845" y="361" width="325" height="4" rx="2" fill="#253149" stroke="#253149"/>
-<rect x="845" y="361" width="36.512613651288675" height="4" rx="2" fill="#F7D38B" stroke="#F7D38B"/>
+<rect x="845" y="361" width="36.211248045653754" height="4" rx="2" fill="#F7D38B" stroke="#F7D38B"/>
 <circle cx="830" cy="388" r="4" fill="#B7DE98"/>
 <text x="845" y="393" font-family="'Segoe UI','Noto Sans',Arial,sans-serif" font-size="18" font-weight="400" fill="#F1F4FF" >HTML</text>
-<text x="1170" y="393" font-family="'Cascadia Code','JetBrains Mono','DejaVu Sans Mono',monospace" font-size="16" font-weight="500" fill="#9CAAC3" text-anchor="end">9.6%</text>
+<text x="1170" y="393" font-family="'Cascadia Code','JetBrains Mono','DejaVu Sans Mono',monospace" font-size="16" font-weight="500" fill="#9CAAC3" text-anchor="end">9.7%</text>
 <rect x="845" y="402" width="325" height="4" rx="2" fill="#253149" stroke="#253149"/>
-<rect x="845" y="402" width="31.25452418171841" height="4" rx="2" fill="#B7DE98" stroke="#B7DE98"/>
-<text x="828" y="454" font-family="'Segoe UI','Noto Sans',Arial,sans-serif" font-size="13" font-weight="400" fill="#9CAAC3" >9 languages · by bytes · other 7.8%</text>
-<text x="5" y="502" font-family="'Cascadia Code','JetBrains Mono','DejaVu Sans Mono',monospace" font-size="13" font-weight="500" fill="#9CAAC3" >PUBLIC ACTIVITY / 2026-11-22</text>
+<rect x="845" y="402" width="31.59430994211981" height="4" rx="2" fill="#B7DE98" stroke="#B7DE98"/>
+<text x="828" y="454" font-family="'Segoe UI','Noto Sans',Arial,sans-serif" font-size="13" font-weight="400" fill="#9CAAC3" >9 languages · by bytes · other 7.7%</text>
+<text x="5" y="502" font-family="'Cascadia Code','JetBrains Mono','DejaVu Sans Mono',monospace" font-size="13" font-weight="500" fill="#9CAAC3" >PUBLIC ACTIVITY / 2026-11-23</text>
 <text x="1194" y="502" font-family="'Cascadia Code','JetBrains Mono','DejaVu Sans Mono',monospace" font-size="13" font-weight="500" fill="#9CAAC3" text-anchor="end">REFRESHED DAILY · ASIA/SEOUL</text>
 </svg>
