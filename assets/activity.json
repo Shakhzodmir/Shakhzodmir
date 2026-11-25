@@ -1,6 +1,6 @@
 {
   "user": "Shakhzodmir",
-  "as_of": "2026-11-24",
+  "as_of": "2026-11-25",
   "scope": "Public repositories excluding forks; GitHub contribution calendar",
   "days": [
     [
@@ -1465,17 +1465,21 @@
     ],
     [
       "2026-11-23",
-      14
+      91
     ],
     [
       "2026-11-24",
-      0
+      13
+    ],
+    [
+      "2026-11-25",
+      1
     ]
   ],
   "languages": [
     [
       "Lua",
-      4911086
+      5224067
     ],
     [
       "TypeScript",
@@ -1483,15 +1487,15 @@
     ],
     [
       "JavaScript",
-      1787096
+      2025472
     ],
     [
       "Python",
-      1388289
+      1392559
     ],
     [
       "HTML",
-      1211282
+      1291109
     ],
     [
       "CSS",
@@ -1503,7 +1507,7 @@
     ],
     [
       "Shell",
-      6120
+      6500
     ],
     [
       "GLSL",
